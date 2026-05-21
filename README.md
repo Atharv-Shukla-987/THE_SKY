@@ -9,10 +9,11 @@ arrow up - to make aircraft fly higher
 arrow down - to make aircraft fly lower
 
 # How to play 
- 1. go to the github repo and download the code
- 2. open the file and copy the code
- 3. open powershell / command promt
- 4. paste and execute the code
+ 1. go to the github repo https://github.com/Atharv-Shukla-987/THE_SKY
+ 2. and download the code
+ 3. open the file and copy the code
+ 4. open powershell / command promt
+ 5. paste and execute the code
 
 # creator
 Atharv shukla

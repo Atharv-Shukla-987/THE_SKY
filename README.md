@@ -1,7 +1,9 @@
 # Terminal Game
 My first terminal game made in python using pygame library 
-It's a very simple 2d game in which you have a player [ Aircraft] that flies in the sky and you have to avoid clouds with lightening for aircraft to survive
+It's a very simple 2d game in which you have a player [ Aircraft] that flies in the sky and you have to avoid clouds with lightening which spawns randomly for aircraft to survive
 when Aircraft colloid with lightening cloud , then thats game over 
+
+<img width="1199" height="629" alt="img" src="https://github.com/user-attachments/assets/c13f5c07-761c-4fe6-9ec3-f6c13338d04d" />
 
 # Controls
 arrow up - to make aircraft fly higher
@@ -9,11 +11,10 @@ arrow up - to make aircraft fly higher
 arrow down - to make aircraft fly lower
 
 # How to play 
- 1. go to the github repo https://github.com/Atharv-Shukla-987/THE_SKY
- 2. and download the code
- 3. open the file and copy the code
- 4. open powershell / command promt
- 5. paste and execute the code
+ 1. clone the repo 
+ 2. open the repo
+ 3. execute code.py by writing the prompt python code.py in powershell/command prompt aka cmd.
+ 4. this will open the game and now its ready to play.
 
 # creator
 Atharv shukla

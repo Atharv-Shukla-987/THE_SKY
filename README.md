@@ -5,6 +5,7 @@ when Aircraft colloid with lightening cloud , then thats game over
 
 # Controls
 arrow up - to make aircraft fly higher
+
 arrow down - to make aircraft fly lower
 
 # How to play 
